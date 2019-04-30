@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-04-01T16:26:24.909-0300</date>
+  <logger>MATHEUS AUGUSTO SILVA DO NASCIMENTO</logger>
+  <level>FINE</level>
+  <message>File 118111612-MATHEUS AUGUSTO SILVA DO NASCIMENTO.zip was received. It was sent by MATHEUS AUGUSTO SILVA DO NASCIMENTO from IP 150.165.42.204</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-04-01T22:28:41.172-0300</date>
+  <logger>MATHEUS AUGUSTO SILVA DO NASCIMENTO</logger>
+  <level>FINE</level>
+  <message>File 118111612-MATHEUS AUGUSTO SILVA DO NASCIMENTO.zip was received. It was sent by MATHEUS AUGUSTO SILVA DO NASCIMENTO from IP 192.168.15.12</message>
+</record>

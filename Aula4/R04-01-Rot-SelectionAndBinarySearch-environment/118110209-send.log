@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-04-08T16:17:50.672-0300</date>
+  <logger>CAROLINY REGINA VALENCA LEANDRO</logger>
+  <level>FINE</level>
+  <message>File 118110209-CAROLINY REGINA VALENCA LEANDRO.zip was received. It was sent by CAROLINY REGINA VALENCA LEANDRO from IP 150.165.42.211</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-04-08T23:15:40.637-0300</date>
+  <logger>CAROLINY REGINA VALENCA LEANDRO</logger>
+  <level>FINE</level>
+  <message>File 118110209-CAROLINY REGINA VALENCA LEANDRO.zip was received. It was sent by CAROLINY REGINA VALENCA LEANDRO from IP 192.168.15.12</message>
+</record>
