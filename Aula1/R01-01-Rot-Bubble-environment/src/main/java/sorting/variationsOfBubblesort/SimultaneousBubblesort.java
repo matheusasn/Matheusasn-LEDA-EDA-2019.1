@@ -13,8 +13,24 @@ import sorting.AbstractSorting;
  */
 public class SimultaneousBubblesort<T extends Comparable<T>> extends
 		AbstractSorting<T> {
-	public void sort(T[] array, int leftIndex, int rightIndex) {
-		// TODO Auto-generated method stub
-		throw new UnsupportedOperationException("Not implemented yet!");
-	}
-}
+public void sort(T[] array, int leftIndex, int rightIndex) {
+  	if (array.length != 0 && leftIndex < rightIndex && leftIndex >= 0 && rightIndex <= array.length - 1){
+  		for (int i = leftIndex; i <= rightIndex; i++) {
+  			for (int j = leftIndex; j < rightIndex; j++) {
+  				if (array[j].compareTo(array[j + 1]) > 0){
+  					T aux = array[j];
+  					array[j] = array[j + 1];
+  					array[j + 1] = aux;
+  				}
+  			}
+  			for (int j = rightIndex; j < leftIndex; j--) {
+  				if (array[j].compareTo(array[j - 1]) < 0){
+  					T aux = array[j];
+  					array[j] = array[j - 1];
+  					array[j - 1] = aux;
+  				}
+  			}
+  		}
+  	}
+  }
+ }
